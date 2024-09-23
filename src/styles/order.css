@@ -1,0 +1,10 @@
+.order-form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .form-group {
+    margin-bottom: 10px
+  }

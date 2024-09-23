@@ -1,0 +1,12 @@
+section {
+    padding: 10px 0px;
+}
+
+.section__line {
+    width: 80px;
+    height: 3px;
+    background-color: transparent;
+    margin: 0 auto;
+    margin-bottom: 30px;
+  }
+  
